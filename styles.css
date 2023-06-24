@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+header{
+	background: #011e29;
+	text-align: center;
+	color: white;
+	padding: 15px 0;
+	font-size: 25px;
+}
+
+.content{
+	display: flex;
+	justify-content: space-between;
+}
+
+.content div{
+	width: 100%;
+	background: white;
+	margin: 10px 2px;
+	border-radius: 15px;
+	text-align: center;
+	height: fit-content;	
+}
+
+img{
+	width: 100%;
+}
